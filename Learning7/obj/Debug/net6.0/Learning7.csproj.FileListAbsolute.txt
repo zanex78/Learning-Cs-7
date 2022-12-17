@@ -1,0 +1,15 @@
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.csproj.AssemblyReference.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.AssemblyInfoInputs.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.AssemblyInfo.cs
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.csproj.CoreCompileInputs.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/bin/Debug/net6.0/Learning7
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/bin/Debug/net6.0/Learning7.deps.json
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/bin/Debug/net6.0/Learning7.runtimeconfig.json
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/bin/Debug/net6.0/Learning7.dll
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/bin/Debug/net6.0/Learning7.pdb
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.dll
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/refint/Learning7.dll
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.pdb
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/Learning7.genruntimeconfig.cache
+/Users/zanex/Library/Mobile Documents/com~apple~CloudDocs/Documents/C#/Learning7/Learning7/obj/Debug/net6.0/ref/Learning7.dll
